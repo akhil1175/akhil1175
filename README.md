@@ -16,6 +16,4 @@ Backend engineer focused on building scalable distributed systems with Java and 
 - Designing real-time data pipelines with Kafka
 - Implementing resilience patterns with Resilience4j
 
----
 
-Reach me at [LinkedIn](https://linkedin.com/in/akhil-bhimineni)
